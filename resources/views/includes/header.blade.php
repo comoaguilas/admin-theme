@@ -1,6 +1,6 @@
 <header class="main-header">
     <!-- Logo -->
-    <a href="index2.html" class="logo"><b>Admin</b>LTE</a>
+    <a href="index2.html" class="logo"><b>COMO&Aacute;GUILAS</b>.org</a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top" role="navigation">
         <!-- Sidebar toggle button-->
@@ -199,16 +199,16 @@
                 <!-- User Account: style can be found in dropdown.less -->
                 <li class="dropdown user user-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                    <img src="{{ asset('dist/img/user2-160x160.jpg') }}" class="user-image" alt="User Image"/>
-                    <span class="hidden-xs">Alexander Pierce</span>
+                    <img src="{{ asset('dist/img/migue.jpg') }}" class="user-image" alt="User Image"/>
+                    <span class="hidden-xs">Miguelangel Cabrera</span>
                     </a>
                     <ul class="dropdown-menu">
                         <!-- User image -->
                         <li class="user-header">
-                            <img src="{{ asset('dist/img/user2-160x160.jpg') }}" class="img-circle" alt="User Image" />
+                            <img src="{{ asset('dist/img/migue.jpg') }}" class="img-circle" alt="User Image" />
                             <p>
-                            Alexander Pierce - Web Developer
-                            <small>Member since Nov. 2012</small>
+                            Miguelangel Cabrera - Web Developer
+                            <small>Member since Nov. 2008</small>
                             </p>
                         </li>
                         <!-- Menu Body -->

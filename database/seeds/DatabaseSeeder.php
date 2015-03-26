@@ -15,9 +15,9 @@ class DatabaseSeeder extends Seeder {
 	{
 		Model::unguard();
 
-		
 
-        User::create(['name' => 'codelution', 'password' => Hash::make( '123456' ) , 'email' => 'foo@bar.com']);
+
+        User::create(['name' => 'migue', 'password' => Hash::make( 'migue.2520' ) , 'email' => 'miguel4ngel@gmail.com']);
 	}
 
 
